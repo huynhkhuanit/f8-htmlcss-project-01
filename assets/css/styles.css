@@ -72,7 +72,7 @@ a {
 /* Header */
 
 /* Nav */
-.header {
+.hero-wrap {
     display: flex;
     flex-direction: column;
     position: relative;
