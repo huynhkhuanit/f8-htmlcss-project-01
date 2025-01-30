@@ -31,10 +31,6 @@
         color: #ccc;
     }
 
-    .fix-header {
-        /* position: static; */
-    }
-
     .menu-overlay {
         position: fixed;
         z-index: 1000;
